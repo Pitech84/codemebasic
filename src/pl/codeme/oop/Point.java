@@ -11,7 +11,7 @@ public class Point implements Serializable {
 	
 	private char mark; //
 	
-	// tutaj stefan poszedl na frytki
+
 	public Point(){
 		this.mark='.';
 	}
